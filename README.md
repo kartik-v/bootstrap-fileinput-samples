@@ -12,8 +12,8 @@ The following file samples are available for testing with the bootstrap-fileinpu
 | Audio Formats              | `small.ogg`                                                                |
 | CSV Files                  | `test.csv`                                                                 |
 | PDF Files                  | `pdf-sample.pdf`                                                           |
-| TEXT Files                 | `README.txt`                                                               |
-| HTML Files                 | `README.htm`                                                               |
+| TEXT Files                 | `Sample_TEXT.txt`                                                          |
+| HTML Files                 | `Sample_HTML.htm`                                                          |
 | SVG Image Files            | `SVG_Awesome_Tiger.jpg`, `SVG_Gallardo.jpg`, `SVG_Red_Fedora.jpg`          |
 | Exif Landscape Orientation | `Exif-Landscape-1.jpg` to `Exif-Landscape-8.jpg`                           |
 | Exif Portrait Orientation  | `Exif-Portrait-1.jpg` to `Exif-Portrait-8.jpg`                             |
