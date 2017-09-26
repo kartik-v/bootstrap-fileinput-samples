@@ -3,20 +3,22 @@ Additional sample files for the [bootstrap-fileinput](https://github.com/kartik-
 
 The following file samples are available for testing with the bootstrap-fileinput:
 
-| Feature To Test            | Sample File names (files available in the `samples` folder)                |
-|----------------------------|----------------------------------------------------------------------------|
-| Image Files                | `Desert.jpg`, `Jellyfish.jpg`, `Koala.jpg`, `Lighthouse.jpg`, `Tulips.jpg` |
-| Large Width Image          | `large-width-image.jpg`                                                    |
-| Flash/Object Files         | `BannerSnack-ad-336x280.swf`, `Car-speakers-590x90.swf`                    |
-| Video Formats              | `small.3gp`, `small.flv`, `small.mp4`, `small.ogg`, `small.webm`           |
-| Audio Formats              | `small.ogg`                                                                |
-| CSV Files                  | `test.csv`                                                                 |
-| PDF Files                  | `pdf-sample.pdf`                                                           |
-| TEXT Files                 | `Sample_TEXT.txt`                                                          |
-| HTML Files                 | `Sample_HTML.htm`                                                          |
-| SVG Image Files            | `SVG_Awesome_Tiger.jpg`, `SVG_Gallardo.jpg`, `SVG_Red_Fedora.jpg`          |
-| Exif Landscape Orientation | `Exif-Landscape-1.jpg` to `Exif-Landscape-8.jpg`                           |
-| Exif Portrait Orientation  | `Exif-Portrait-1.jpg` to `Exif-Portrait-8.jpg`                             |
+| Feature To Test            | Sample File names (files available in the `samples` folder)                     |
+|----------------------------|---------------------------------------------------------------------------------|
+| JPEG Image Files           | `Desert.jpg`, `Jellyfish.jpg`, `Koala.jpg`, `Lighthouse.jpg`, `Tulips.jpg`      |
+| PNG Image Files            | `SamplePNGImage_100kb.png`, `SamplePNGImage_1mb.png`, `SamplePNG_NoExtn`        |
+| Large Width Image          | `large-width-image.jpg`                                                         |
+| Flash/Object Files         | `BannerSnack-ad-336x280.swf`, `Car-speakers-590x90.swf`                         |
+| Video Formats              | `small.3gp`, `small.flv`, `small.mp4`, `small.webm`, `SampleVideo_1280x720_1mb` |
+| Audio Formats              | `SampleAudio_0.4mb`, `small.ogg`                                                |
+| CSV Files                  | `test.csv`, `SampleCSVFile_2kb`, `SampleCSVFile_1109kb`                         |
+| PDF Files                  | `pdf-sample.pdf`, `SamplePDFFile_5mb.pdf`                                       |
+| TEXT Files                 | `SampleTextFile_10kb.txt`, `SampleTextFile_1000kb.txt`                          |
+| SQL Files                  | `Sample-SQL-File-10-Rows.sql`, `Sample-SQL-File-10000-Rows.sql`                 |
+| HTML Files                 | `SampleHTML.htm`, `fibonacci.htm`                                               |
+| SVG Image Files            | `SVG_Awesome_Tiger.jpg`, `SVG_Gallardo.jpg`, `SVG_Red_Fedora.jpg`               |
+| Exif Landscape Orientation | `Exif-Landscape-1.jpg` to `Exif-Landscape-8.jpg`                                |
+| Exif Portrait Orientation  | `Exif-Portrait-1.jpg` to `Exif-Portrait-8.jpg`                                  |
 | Special File Names         | `Penguins[WithSpecialChars].jpg`, `This is a long file name to just check how the fileinput plugin can autosize the file caption displayed across device sizes.jpg` |
 
 For details, visit the plugin [documentation](http://plugins.krajee.com/file-input) or [demo page](http://plugins.krajee.com/file-input/demo).

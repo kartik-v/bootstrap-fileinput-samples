@@ -1,0 +1,35 @@
+<!-- Fibonacci Number Generator -->
+<!-- Created by Kartik Visweswaran -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css">
+<div class="card card-body" style="text-align:left">
+<h2>Fibonacci Numbers</h2>
+<label for="tillNumber">Till Number</label>
+<input id="tillNumber" name="tillNumber" type="number" min=0 value="55" onchange="parse(this);" class="form-control" required>
+<br>
+<div id="fibonacci"></div>
+<script type="text/javascript">
+function parse(input) {
+    var tillNum = input.value;
+    if (!tillNum || tillNum < 0) {
+        tillNum = 55;
+        input.value = 55;
+    }
+    fibonacci(tillNum);
+}
+function fibonacci(tillNum) {
+    var a = 0, b = 1, c = 0, i = 1, html;
+    html = '<table class="table"><thead><tr><th style="width:100px">#</th><th>Fibonacci Number</th></tr></thead><tbody>';
+    while (b <= tillNum)
+    {
+        html += '<tr><td>' + i + '.</td><td>' + c + '</td></tr>';
+        c = a + b;
+        a = b;
+        b = c;
+        i++;
+    }
+    html += '</tbody></table>';
+    document.getElementById('fibonacci').innerHTML = html;
+}
+fibonacci(55);
+</script>
+</div>
