@@ -14,6 +14,7 @@ The following file samples are available for testing with the bootstrap-fileinpu
 | CSV Files                  | `test.csv`, `SampleCSVFile_2kb`, `SampleCSVFile_1109kb`                         |
 | PDF Files                  | `pdf-sample.pdf`, `SamplePDFFile_5mb.pdf`                                       |
 | TEXT Files                 | `SampleTextFile_10kb.txt`, `SampleTextFile_1000kb.txt`                          |
+| Office Files               | `SampleDOCFile_100kb.doc`, `SampleXLSFile_38kb.xls`, `SamplePPTFile_500kb.ppt`  |
 | SQL Files                  | `Sample-SQL-File-10-Rows.sql`, `Sample-SQL-File-10000-Rows.sql`                 |
 | HTML Files                 | `SampleHTML.htm`, `fibonacci.htm`                                               |
 | SVG Image Files            | `SVG_Awesome_Tiger.jpg`, `SVG_Gallardo.jpg`, `SVG_Red_Fedora.jpg`               |
