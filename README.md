@@ -7,6 +7,10 @@ The following file samples are available for testing with the bootstrap-fileinpu
 |----------------------------|---------------------------------------------------------------------------------|
 | JPEG Image Files           | `Desert.jpg`, `Jellyfish.jpg`, `Koala.jpg`, `Lighthouse.jpg`, `Tulips.jpg`      |
 | PNG Image Files            | `SamplePNGImage_100kb.png`, `SamplePNGImage_1mb.png`, `SamplePNG_NoExtn`        |
+| TIFF Image Files           | `multipage_tiff_example.tiff`                                                   |
+| Photoshop Files            | `apple.psd`                                                                     |
+| EPS Files                  | `sample_eps.eps`                                                                |
+| AI Files                   | `sample_ai.ai`                                                                  |
 | Large Width Image          | `large-width-image.jpg`                                                         |
 | Flash/Object Files         | `BannerSnack-ad-336x280.swf`, `Car-speakers-590x90.swf`                         |
 | Video Formats              | `small.3gp`, `small.flv`, `small.mp4`, `small.webm`, `SampleVideo_1280x720_1mb` |
