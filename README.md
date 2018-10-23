@@ -15,6 +15,7 @@ The following file samples are available for testing with the bootstrap-fileinpu
 | Flash/Object Files         | `BannerSnack-ad-336x280.swf`, `Car-speakers-590x90.swf`                         |
 | Video Formats              | `small.3gp`, `small.flv`, `small.mp4`, `small.webm`, `SampleVideo_1280x720_1mb` |
 | Audio Formats              | `SampleAudio_0.4mb`, `small.ogg`                                                |
+| Video Quicktime            | `SampleQuicktimeMovie.mov`                                                      |
 | CSV Files                  | `test.csv`, `SampleCSVFile_2kb`, `SampleCSVFile_1109kb`                         |
 | PDF Files                  | `pdf-sample.pdf`, `SamplePDFFile_5mb.pdf`                                       |
 | TEXT Files                 | `SampleTextFile_10kb.txt`, `SampleTextFile_1000kb.txt`                          |
