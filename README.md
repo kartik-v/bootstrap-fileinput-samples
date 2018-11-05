@@ -1,4 +1,16 @@
-# bootstrap-fileinput-samples
+<h1 align="center">
+    <a href="http://plugins.krajee.com" title="Krajee Plugins" target="_blank">
+        <img src="http://kartik-v.github.io/bootstrap-fileinput-samples/samples/krajee-logo-b.png" alt="Krajee Logo"/>
+    </a>
+    <br>
+    bootstrap-fileinput-samples
+    <hr>
+    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DTP3NZQ6G2AYU"
+       title="Donate via Paypal" target="_blank">
+        <img src="http://kartik-v.github.io/bootstrap-fileinput-samples/samples/donate.png" alt="Donate"/>
+    </a>
+</h1>
+
 Additional sample files for the [bootstrap-fileinput](https://github.com/kartik-v/bootstrap-fileinput) plugin. These sample files can be used for testing the file preview, input validation, and upload features of the plugin. 
 
 The following file samples are available for testing with the bootstrap-fileinput:
