@@ -1,0 +1,8 @@
+title: krajee-fileinput-samples
+description: Example files for the bootstrap-fileinput plugin
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
